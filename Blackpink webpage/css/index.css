@@ -12,7 +12,7 @@ header.wrapper{
     height: 100vh;
     background: url("Blackpink.jpg") no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top;
 }
 nav{
     width: 100%;
