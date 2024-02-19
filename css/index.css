@@ -14,10 +14,12 @@ header.wrapper{
     background-size: cover;
     background-position: top;
 }
+
 nav{
     width: 100%;
     position: fixed;
 }
+
 nav ul{
     background-color: pink;
     overflow: hidden;
@@ -25,6 +27,7 @@ nav ul{
     text-align: center;
     margin: 0;
 }
+
 .logo{
     position: fixed;
     float: left;
@@ -34,35 +37,43 @@ nav ul{
     color: black;
     font-weight: bold;
 }
+
 nav.black ul{
     background: #000;
 }
+
 nav ul li{
     display: inline-block;
     padding: 15px 15px;
     text-transform: uppercase;
     font-weight: bold;
 }
+
 nav ul li a{
     text-decoration: none;
     color: black;
     padding: 15px;
 }
+
 img{
     width: 30%;
 }
+
 span{
     display: flex;
 }
+
 h1{
     font-family:sans-serif;
     padding: 20px 10px;
 }
+
 p{
     padding: 0px 0px 0px 30px;
     text-indent: 100px;
     font-size: 20px;
 }
+
 .HistoyOfBlackpink{
     margin: 0;
     padding: 6px;
@@ -70,6 +81,7 @@ p{
     color: pink;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .member{
     margin: 0;
     padding: 6px;
@@ -77,19 +89,23 @@ p{
     color: pink;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .member-content{
     text-indent: 0;
 }
+
 a:hover{
     background-color: black;
     color: pink;
     border-radius: 15px;
 }
+
 .link a:hover{
     font-style: italic;
     font-size: 20px;
     color: red;
 }
+
 ol li{
     font-size: 20;
 }
