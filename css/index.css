@@ -82,7 +82,11 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.member{
+.HistoyOfBlackpink p{
+    line-height: 120%;
+}
+
+.members{
     margin: 0;
     padding: 6px;
     background-color: black;
